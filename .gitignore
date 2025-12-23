@@ -1,0 +1,38 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.env
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large/raw data (keep processed small files in repo if desired)
+data/raw/*.nc
+data/raw/*.nc4
+data/raw/*.tif
+data/raw/*.zip
+data/raw/*.tar.gz
+data/raw/*.txt
+
+# Basemap / large cached tiles
+data/basemap/
+
+# Environment / IDE
+.vscode/
+.envrc
+
+# Logs
+*.log
+
+# Temporary
+*.tmp
+*.bak
+
+# macOS resource forks
+Icon?
