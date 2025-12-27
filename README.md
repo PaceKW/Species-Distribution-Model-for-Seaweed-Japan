@@ -1,4 +1,4 @@
-# Species Distribution Model for Seaweed (Japan)
+# Species Distribution Modeling (SDM) for Seaweed – Japan
 
 A comprehensive species distribution modeling (SDM) project for seaweed in Japanese waters using Random Forest classification with environmental data from OBIS & Bio-ORACLE.
 
@@ -136,15 +136,17 @@ Processed data and model outputs are in `data/processed/` (e.g., `occurrence_wit
 
 Berikut adalah beberapa visualisasi penting yang dihasilkan dari analisis data:
 
-- ![Depth Distribution](figures/eda_depth_distribution.png)
-- ![Salinity Distribution](figures/eda_salinity_distribution.png)
-- ![Spatial Occurrence](figures/eda_spatial_occurrence.png)
-- ![Feature Importance (RF)](figures/feature_importance_rf_final.png)
-- ![Probability Map (Japan)](figures/probability_map_japan_final.png)
+![Depth Distribution](figures/eda_depth_distribution.png)
+![Salinity Distribution](figures/eda_salinity_distribution.png)
+![Spatial Occurrence](figures/eda_spatial_occurrence.png)
+![Feature Importance (RF)](figures/feature_importance_rf_final.png)
+![Probability Map (Japan)](figures/probability_map_japan_final.png)
 
 Silakan lihat gambar-gambar ini untuk pemahaman yang lebih baik tentang distribusi spesies dan faktor lingkungan.
 
 ## Author
+
+This work reflects a junior-level, research-oriented analytical exercise with a strong emphasis on responsible interpretation and scientific limitations.
 
 **Henry Kevin**  
 Background: Information Systems | Data Science | Machine Learning  
